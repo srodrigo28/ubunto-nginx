@@ -1,5 +1,7 @@
 ## Projeto Nginx
 
+<img src="./home.png" alt="">
+
 * > editar o arquivo na pasta
 ```
 root@srv1313919:~/infra-proxy# nano conf/default.conf
